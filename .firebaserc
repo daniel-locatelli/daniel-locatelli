@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "daniel-locatelli": {
+      "hosting": {
+        "daniel-locatelli": [
+          "daniel-locatelli"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "daniel-locatelli"
+  }
+}

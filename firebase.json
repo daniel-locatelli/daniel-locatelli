@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "daniel-locatelli",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

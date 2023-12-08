@@ -88,6 +88,23 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "version": 2
+          },
+          "configurations": {
+            "production": {
+              "buildTarget": "daniel-locatelli:build:production",
+              "serveTarget": "daniel-locatelli:serve:production"
+            },
+            "development": {
+              "buildTarget": "daniel-locatelli:build:development",
+              "serveTarget": "daniel-locatelli:serve:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }
