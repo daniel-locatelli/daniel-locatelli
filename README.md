@@ -9,7 +9,12 @@ A little about me in the meantime:
 - 📱 I'm learning Angular and Django to bring to life a couple of Web Apps we have already conceptualized.
 - 💬 Ask me anything related to computational design and digitalization.
 
+
+
 <!--
+To do: linktree for social media
+
+
 **daniel-locatelli/daniel-locatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
