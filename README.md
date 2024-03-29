@@ -2,6 +2,7 @@
 
 This is the repo for my future portfolio.
 <br>
+<br>
 A little about me in the meantime:
 - 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers build sustainably without losing touch with reality 💶.
 - 📱 I'm learning Angular and Django to bring to life a couple of Web Apps we have already conceptualized.
