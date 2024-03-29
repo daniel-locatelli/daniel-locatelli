@@ -6,7 +6,7 @@ As a kid I would disassemble and fix my RC cars for fun. Since joining the AEC i
 I am currently diving deep into the software development world. And I have to say, combining it with the AEC industry may have been my Ikigai this whole time.
 
 A little bit more about me:
-- 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality 💶.
+- 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality.
 - 📱 I am diving deep into Angular to bring Web Apps we have already conceptualized to life.
 - I graduated from FAU-USP in Brazil and earned an M.Sc. from ITECH at the University of Stuttgart in Germany.
 - 💬 Ask me anything related to computational design and digitalization in AEC.
