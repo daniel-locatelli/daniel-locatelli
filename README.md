@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+A little about me:
+- 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality 💶.
+- 📱 I am diving deep into Angular to bring Web Apps we have already conceptualized to life.
+- 💬 Ask me anything related to computational design and digitalization in AEC.
+
+<!--
+
 This is the repo for my future portfolio.
 <br>
 <br>
-A little about me in the meantime:
-- 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers build sustainably without losing touch with reality 💶.
-- 📱 I'm learning Angular and Django to bring to life a couple of Web Apps we have already conceptualized.
-- 💬 Ask me anything related to computational design and digitalization.
-
-
-
-<!--
 As a first step, I have converted my CV to a database, detaching my information from the user interface (separating concerns). This allows me to be platform-independent while also opening the possibility to create tools to query and filter information about me.
 
 
