@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Daniel Locatelli. I am an architect-programmer.
+
 As a kid I would disassemble and fix my RC cars for fun. Since joining the AEC industry, this has not changed: I am figuring out how to disassemble and fix this industry so it can work properly again.
 
 I am currently diving deep into the software development world. And I have to say, combining it with the AEC industry may have been my Ikigai this whole time.
