@@ -2,14 +2,12 @@
 
 My name is Daniel Locatelli. I am an architect-programmer.
 
-As a kid I would disassemble and fix my RC cars for fun. Since joining the AEC industry, this has not changed: I am figuring out how to disassemble and fix this industry so it can work properly again.
-
 I am currently diving deep into the software development world. And I have to say, combining it with the AEC industry may have been my Ikigai this whole time.
 
-A little bit more about me:
+I am
 - 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality.
-- 📱 I am working with Angular to bring Web Apps we have already conceptualized to life.
-- I graduated from FAU-USP in Brazil and earned an M.Sc. from ITECH at the University of Stuttgart in Germany.
+- 📱 Working with Angular to bring Web Apps we have already conceptualized to life and building websites with Astro.
+- 🎓 Graduated from FAU-USP in Brazil and earned an M.Sc. from ITECH at the University of Stuttgart in Germany.
 - 💬 Ask me anything related to computational design and digitalization in AEC.
 
 <!--
