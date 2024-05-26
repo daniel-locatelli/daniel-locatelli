@@ -5,7 +5,7 @@ My name is Daniel Locatelli. I am an architect-programmer.
 I am currently diving deep into software development. And I have to say, building apps was my Ikigai this whole time.
 
 I am
-- 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality.
+- 🌲 Currently at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality.
 - 📱 Working with Angular to bring Web Apps we have already conceptualized to life.
 - 💻 Building [my own portfolio with Astro](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio").
 - 🎓 Graduated from FAU-USP in Brazil and earned an M.Sc. from ITECH at the University of Stuttgart in Germany.
