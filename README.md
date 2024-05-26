@@ -7,7 +7,7 @@ I am currently diving deep into software development. And I have to say, buildin
 I am
 - 🌲 Currently working at [BuildSystems](https://buildsystems.de/ "Build sustainable. Build smart. Build systems."). We help AEC developers and Homeowners build sustainably without losing touch with reality.
 - 📱 Working with Angular to bring Web Apps we have already conceptualized to life.
-- 💻 Building [my own portfolio with Astro](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio).
+- 💻 Building [my own portfolio with Astro](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio").
 - 🎓 Graduated from FAU-USP in Brazil and earned an M.Sc. from ITECH at the University of Stuttgart in Germany.
 
 <!--
