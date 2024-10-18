@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 My name is Daniel Locatelli. I am an architect-programmer.
-
-I am
-- 🕹️ Developing a Computational Design course platform
-- 💻 Building [my own portfolio](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio") with Astro and using Notion as a CMS.
-- 🎓 Graduated from FAU-USP in Brazil and earned an M.Sc. from ITECH at the University of Stuttgart in Germany.
+Check [my portfolio](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio") built with Astro.
 
 <!--
 
