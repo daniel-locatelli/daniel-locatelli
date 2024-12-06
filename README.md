@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Daniel Locatelli. I am an architect-programmer.
-Check [my portfolio](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio") built with Astro.
+Check [my portfolio](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio") of works in computational design and web-development.
 
 <!--
 
