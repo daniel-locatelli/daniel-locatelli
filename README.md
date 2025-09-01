@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hey 👋
 
-I am an architect-programmer.
+Architect + Developer
+I code for the built environment. Portfolio: [https://daniellocatelli.com](https://daniellocatelli.com)
 
-Check [my portfolio](https://daniellocatelli.com/ "Daniel Locatelli's Portfolio") of works in computational design and software engineering.
